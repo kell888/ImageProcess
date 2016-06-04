@@ -1,0 +1,7 @@
+F:\2015\KellImageProcess\KellImageProcess\bin\Debug\KellImageProcess.dll
+F:\2015\KellImageProcess\KellImageProcess\bin\Debug\KellImageProcess.pdb
+F:\2015\KellImageProcess\KellImageProcess\bin\Debug\CSharpAlgorithm.Algorithm.dll
+F:\2015\KellImageProcess\KellImageProcess\obj\Debug\ResolveAssemblyReference.cache
+F:\2015\KellImageProcess\KellImageProcess\obj\Debug\KellImageProcess.dll
+F:\2015\KellImageProcess\KellImageProcess\obj\Debug\KellImageProcess.pdb
+F:\2015\KellImageProcess\KellImageProcess\bin\Debug\KellImageProcess.XML
